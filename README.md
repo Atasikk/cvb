@@ -1,2 +1,0 @@
-# cvb
-My first project
